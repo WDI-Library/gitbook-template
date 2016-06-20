@@ -1,23 +1,28 @@
-# starter-template
-A starter-template for adding a new book to the GA-Library.
+![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
 
-## Prepare the book
-To get started with this template, run:
+# Overview
+> WDI Library is a collection of course books to supplement student learning on the Web Development Immersive course.
 
-```bash
-$ npm run docs:prepare
-```
+The books in the WDI Library include:
 
-To serve the book locally on `http://localhost:4000`, you need to run:
+- getting-started
+- html
+- css 
+- js
+- internet-fundamentals
+- node
+- express
+- nosql
+- angular
+- ruby
+- sql
+- sinatra
+- rails
+- deployment
+- grunt
+- gulp
+- tdd
 
-```bash
-$ npm run docs:watch
-```
+Read more about our [contribution guidelines](CONTRIBUTING.md).
 
-To publish the book on Github pages, you need to run:
-
-```bash
-$ npm run docs:publish
-```
-
-The Github pages url will be `https://wdi-library.github.io/gitbook-template/`
+Check out the [issues](../../issues) we're already planning on addressing.

@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/WDI-Library/gitbook-template#readme",
   "devDependencies": {
-    "gitbook-cli": "^2.3.0"
+    "gitbook-cli": "^1.0.0"
   }
 }

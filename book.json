@@ -1,6 +1,8 @@
 {
   "gitbook": "2.0.0",
+  "title": "Gitbook Template",
+  "language": "en",
   "structure": {
-    "summary": "docs/SUMMARY.md"
+    "readme": "intro.md"
   }
 }
