@@ -2,4 +2,4 @@
 
 ---
 
-## Exercise
+## Exercises
