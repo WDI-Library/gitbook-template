@@ -2,5 +2,4 @@
 
 ---
 
-
-## A chapter section
+## Section
